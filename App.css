@@ -1,0 +1,12 @@
+.time-buttons button {
+  margin: 5px;
+  padding: 10px;
+  background-color: grey;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.time-buttons button.selected {
+  background-color: blue;
+}
